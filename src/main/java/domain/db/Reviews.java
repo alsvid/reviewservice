@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import domain.model.Address;
 import domain.model.Review;
 public class Reviews {
-
+		//random comment for pushing purposes
 		private static Reviews instance = null;
 		private ArrayList<Review> reviewlist = new ArrayList<Review>();
 		protected Reviews() {
